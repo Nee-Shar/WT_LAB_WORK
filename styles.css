@@ -1,0 +1,6 @@
+h3:hover
+{
+    transition: 0.5s;
+    background-color: rgba(77, 78, 77, 0.373);
+    transform: scale(0.9);
+}
